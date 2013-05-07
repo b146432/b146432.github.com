@@ -1,4 +1,4 @@
-b146432.github.com
-==================
+Advanced Scalable Data Infrastructures
+======================================
 
-MDVBS Repository
+git repo for ASDI (Full Sail MDVBS)
